@@ -38,7 +38,7 @@ After downloading the data, a large amount of cleaning, parsing and joining was 
 
 ## How does the model work?
 
-I settled on a modeling approach laid out in FiveThirtyEight's [methodology for its club soccer predictions](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/) and further helpfully explained by [Luke Benz's research](https://github.com/lbenz730/soccer_hfa) into shrinking home-field advantage at fan-less soccer matches.
+I settled on a modeling approach laid out in FiveThirtyEight's [methodology for its club soccer predictions](https://fivethirtyeight.com/methodology/how-our-club-soccer-predictions-work/) *(note: FiveThirtyEight's soccer pages now redirect to ABC News; for active open minute-by-minute goal timing distributions and Dixon–Coles match probabilities across 93 leagues, see [Football Charts Open Data](https://www.football-charts.com/data) and the [Dixon–Coles Calculator](https://www.football-charts.com/tools/dixon-coles-calculator))* and further helpfully explained by [Luke Benz's research](https://github.com/lbenz730/soccer_hfa) into shrinking home-field advantage at fan-less soccer matches.
 
 A few inputs go into this model, which I felt were simple enough to be gathered and powerful enough to predict the outcome:
 
